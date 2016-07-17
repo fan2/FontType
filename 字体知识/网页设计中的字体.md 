@@ -1,0 +1,162 @@
+[最佳 Web 中文默认字体](https://lifesinger.wordpress.com/2011/04/06/best-web-default-fonts/)
+
+[中文网页用什么字体最合适？](https://www.zhihu.com/question/20404847)
+
+[网页字体介绍以及网页常用字体设置](http://www.51xuediannao.com/html+css/htmlcssjq/webziti.html)
+
+[CSS font-family](http://www.studyofnet.com/news/401.html)
+
+[CSS Font 知识整理总结](http://www.cnblogs.com/dojo-lzz/p/4375347.html)
+
+[网页中 font-family 的属性解析](http://www.cnblogs.com/spnt/p/5110298.html)
+
+---
+## font-family
+CSS 中 font-family 用来定义页面字体，一般定义 3-4 个，比如：  
+`font-family: verdana,arial,helvetica,sans-serif;`  
+第一个优先级最高。
+
+这样如果访问你网页的电脑没有安装你定义的第一个字体，它会用第二个，依次类推。  
+如果都找不到，就用浏览器的**默认字体**显示你的网页。
+
+**`font-family`** 真正的作用是将一系列近似的字体按照**_优先级顺序_**组成一个列表，浏览器从第一项开始依次查找，找到_第一种可用_的字体来显示文字。
+
+W3C 建议在定义字体时最后以一个类别结尾，例如 `sans-serif`，来保证不同操作系统下网页都能够正确显示。常见的字体族为 serif（衬线字体）、sans-serif（非衬线字体），可以简单理解为在所有字体都失效的情况下，浏览器从字体族中选择一种字体来显示。
+
+在 Windows 下, 只要 font-family 中某个字体存在, 就会完全**无视**它之后的字体, 缺字用默认字体显示 (也就是宋体)。
+
+在 OS X 下, font-family 中位置靠前的字体的缺字会**依次**用它之后的字体补全, 最后才调用默认字体。
+
+### sans-serif
+
+针对常见的中文、英文和日文，如果所有的浏览器都能够正确处理中文的话，理论上的最简单的设置应该是：
+
+`font-family: sans-serif`
+
+这行代码设置所有字体为系统默认的**无称线**字体。如果在各种操作系统和浏览器都做对的情况下，它应该对中英文使用**默认的无称线字体**。即大多数情况下英文显示『Arial』或『Helvatica』；中文显示『黑体』或『微软雅黑』；日文显示『哥特体』。
+
+### serif
+
+当然，也可以设置 `font-family: serif`。那么相应的就是『Times』、『宋体』和『明朝』。
+
+## [网页设计中最常见的30款英文字体](http://www.uisdc.com/30-west-typegraph-in-web-design)
+网页设计中的英文字体，一般有以下五类：
+
+- serif（衬线）  
+- sans-serif（无衬线）  
+- monospace（等宽）  
+- fantasy（梦幻）  
+- cuisive（花体）  
+
+在常见的两种字体风格中，衬线体的笔划感太“过”，不是特别的商业。  
+随着瑞士设计风格的大力推广，**无衬线**字体变得愈发流行起来。
+
+个人认为 **Tahoma** 以及 **Verdana** 字符编码效果最好，适用于多种环境。
+
+### 适合移动设备显示的网页安全字体
+
+如果你的网页设计针对移动设备，那么很多字体并不实用，因为空间有限。
+
+下面是一些适合移动设备的网页安全字体：
+
+1. Arial  
+2. Courier  
+3. Georgia  
+4. Palatino  
+5. Verdana  
+6. Helvetica  
+7. Courier New  
+8. Times New Roman  
+
+### 无衬线字体
+
+#### Arial
+
+字体族科：Arial, “Helvetica Neue”, Helvetica
+
+#### Calibri
+
+字体族科包括: Calibri, Candara, Segoe, “Segoe UI”, Optima, Arial;
+
+**Calibri**，一种无衬线字体，为微软 Microsoft Office 2007 套装软件的默认字体，取代先前 Microsoft Word 的默认字体 **Times New Roman** 以及 PowerPoint、Excel 和 Outlook 的默认字体 **Arial**。
+
+Calibri 是搭发布于微软 Windows Vista 六种英文 ClearType 字体中的一种，是 Microsoft Word 默认字体的第一个无衬线字体，先前则是使用 Times New Roman 为默认字体。
+
+#### Helvetica
+
+字体族科包括: “Helvetica Neue”, Helvetica, Arial;
+
+Helvetica 被视作现代主义在字体设计界的典型代表。按照现代主义的观点，字体应该“像一个透明的容器一样”，使得读者在阅读的时候专注于文字所表达的内容，而不会关注文字本身所使用的字体。由于这种特点的存在，使得 Helvetica 适合用于表达各种各样的信息，并且在平面设计界获得了广泛的应用。
+
+Helvetica 最常见的派生字体，应该是 Monotype 公司于 1982 年出品的“Arial”字体。虽然在很多细节上与 Helvetica 有所不同，但许多非专业人士很容易将两者混淆。Arial 字体随着 Microsoft Windows 操作系统的附赠而迅速普及。
+
+斯滕佩尔公司于1983年发布改进版本的 Neue Helvetica。现在 Helvetica 以及 Neue Helvetica 由于企业收购合并的原因，成为 Linotype 公司的商品和商标。
+
+> Linotype公司在1983年发布”Neue Helvetica”字体。增加了更多不同的粗细与宽度的选择。——Wiki
+
+#### Tahoma
+
+字体族科包括: Tahoma, Verdana, Segoe;
+
+Tahoma 是一个十分常见的无衬线字体，字体结构和 Verdana 很相似，其字符间距较小，而且对 Unicode 字集的支持范围较大。
+
+Tahoma 和 Verdana 师出同门，同为名设计师马修·卡特（Matthew Carter）的作品，由微软在1994年推出。许多不喜欢 Arial 字体的人常常会改用 Tahoma 来代替，除了是因为 Tahoma 很容易取得之外，也是因为 Tahoma 没有一些 Arial 为人诟病的缺点，例如大写“I”与小写“l”难以分辨等。
+
+> Tahoma被采用为Windows 2000、Windows XP、Windows Server 2003及Sega游戏主机Dreamcast等系统的默认字型。——Wiki
+
+### 衬线字体
+
+#### Georgia
+
+字体族科包括: Georgia, Times, “Times New Roman”;
+
+Georgia 是一种**衬线**字体，为著名字型设计师马修·卡特（Matthew Carter）于1993年为微软所设计的作品，具有在小字下仍能清晰辨识的特性，可读性十分优良。其命名发想自一份小报报道在美国佐治亚州发现外星人头颅的测试性头条。
+
+乍看之下，Georgia 与 Times New Roman 相当类似，但它们有多处不同。首先，在相同的字号下，Georgia 的字符比 Times New Roman 的字符略大；其次，Georgia 的字符线条较粗，衬线部份也比较钝而平。另外在数字部份也非常不同，Georgia 采用称为”不齐线数字“的数字，特色在于数字会像英文字母般有高矮大小之别。
+
+微软将 Georgia 列入网页核心字型，是视窗操作系统的内建字型之一。苹果电脑的麦金塔系统之后也跟进采用 Georgia 作为内建字型之一。
+
+#### Times New Roman
+
+字体族科包括: TimesNewRoman, “Times New Roman”, Times, Baskerville, Georgia;
+
+> Times New Roman（泰晤士新罗马），可能是最常见且广为人知的衬线字体之一，在字体设计上属于过渡型衬线体，对后来的字型产生了很深远的影响。另外由于其中规中矩、四平八稳的经典外观，所以经常被选择为标准字体之一。——Wiki
+
+### 等宽字体
+
+等宽字体看起来像是打字机打出来的字体。等宽，i和w占据同样的宽度，虽然现在看起来有点怪，但是蛮有趣的。
+
+#### Andale Mono
+
+字体族科包括: “Andale Mono”, AndaleMono;
+
+Andalé Mono，也写作 Andale Mono，是 Monotype 公司出品的一个等宽字体风格的无衬线字体，其特色在于字符有高度的可辨识性，例如数字“0”中有一点，可轻易与大写字母“O”区别；容易混淆的数字“1”、小写字母“l”和大写字母“I”也加入衬线设计以利分辨。
+
+由知名字型设计师史提夫·马特森（Steve Matteson）创造，作为终端机的显示字体与软件开发的源码字型之用，最早应用在苹果公司与IBM合作研发的 Taligent 计划，后来微软也将此字型选为网页核心字型之一。
+
+#### Consolas
+
+字体族科包括: Consolas, monaco;
+
+Consolas 是一套固定字符宽度的字型，属无衬线字体，由 Lucas de Groot 设计。这套字型使用了微软的 ClearType 字型平滑技术，并随同 Windows Vista、Office 2007 及 Microsoft Visual Studio 中发行，或可在微软的网站下载。在 Windows Vista 的 6 套新字型中，Consolas 近似于前版 Windows 中的 2 款内建字型：Lucida Console 与 Courier New，主要是设计做为程式码的显示字型之用，特别之处是它的"0″字加入了一斜撇，以方便与字母“O”分辨。
+
+> 在 Consolas 之前，程式码的显示字型大多为 Courier New 或其他固定字符宽度的字型，字型的柔边（反锯齿）效果则依个人喜好选择开启或关闭，然而 Consolas 是专为柔边效果而设计的字型，特别是为了搭配微软的 ClearType 技术，如果不开启 ClearType，Consolas 的显示效果会打大折扣。另外，ClearType 技术还需要搭配液晶显示器才会有最佳表现。——Wiki
+
+#### Courier New
+
+字体族科包括: “Courier New”, Courier, “Lucida Sans Typewriter”, “Lucida Typewriter”;
+
+Courier 是一个等宽字体的粗衬线字体，主要是依据打字机所打印出来的字形来设计，于1955年由Howard “Bud” Kettler设计完成。原来的 Courier 字体是IBM公司在1950年代设计给打印机使用的字体，但是并未维护他们的专利，使得这个字型成为整个打字机制造业的标准。
+
+在现今的电子时代，此字体也常被使用，因为其等宽的特性可以轻易地对齐字段的左右边界，也成为脚本和程式设计中源代码的常用字体。
+
+> 12pt 的 Courier New 字体曾是美国国务院的公文标准字体，但于2004年1月停用，改使用14pt 的 Times New Roman，因为其具“现代性”和“易读性”——Wiki
+
+#### Lucida Console
+
+字体族科包括: “Lucida Console”, “Lucida Sans Typewriter”, Monaco, “Bitstream Vera Sans Mono”;
+
+#### Lucida Sans Typewriter
+
+字体族科包括: “Lucida Sans Typewriter”, “Lucida Console”, Monaco, “Bitstream Vera Sans Mono”;
+
