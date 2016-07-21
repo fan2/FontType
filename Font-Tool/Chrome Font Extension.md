@@ -7,6 +7,8 @@ The easiest way to identify fonts on web pages.
 [WhatFont – 查看当前页面所用字体](http://www.apprcn.com/whatfont.html)  
 [字体控的玲珑法器：WhatFont](http://sspai.com/25800)  
 
+显示单位（Font-Size）写的为px，实则为磅。
+
 ## Change fonts and font styles in Chrome
 [Don’t Like Font On A Website? Change It Using This Chrome Extension](http://www.valuewalk.com/2013/08/font-on-a-website/)
 
