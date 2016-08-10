@@ -5,6 +5,9 @@ It is the default font used in Android and Chrome OS, and is the recommended fon
 [Roboto Character Set](https://www.google.com/fonts/specimen/Roboto)  
 [Google Fonts API for Roboto](https://www.google.com/fonts#UsePlace:use/Collection:Roboto)
 
+[缓存 Google 字体副本](http://ju.outofmemory.cn/entry/88873)([Noto Serif](http://www.1001fonts.com/noto-serif-font.html)/[Open Sans](http://www.1001fonts.com/open-sans-font.html))  
+[WOFF 和 Google Font API](https://swordair.com/woff-and-google-font-api/)  
+
 ## [思源黑体](https://zh.wikipedia.org/wiki/%E6%80%9D%E6%BA%90%E9%BB%91%E9%AB%94)
 Source Han Sans / Noto Sans CJK（下称 SHS）这个项目是由 Google 委托 Adobe，并联合日本 Iwata（主要负责字符集扩充）、中国常州华文（SinoType，主要负责字形的中国大陆标准与台湾「国字标准字体」本地化）、韩国 Sandoll（主要负责韩文设计）共同完成的。这项目的规模在 CJK 领域应该也是史无前例的。
 
@@ -22,7 +25,7 @@ Google 将其纳入 **Noto** pan-Unicode 字体家族，推出的这一字体系
 
 > Beautiful and free fonts for all languages
 
-就英文名（Noto Sans CJK 、 Source Han Sans）來看: Google 原本就有 Noto 字型計畫，目的就是要消滅豆腐字(係指文章因為缺字出現如豆腐方塊的情形)，所以 Noto 其實是 No Tofu（沒豆腐）。
+就英文名（Noto Sans CJK 、 Source Han Sans）來看: Google 原本就有 Noto 字型計畫，目的就是要消滅豆腐字([tofu](http://www.1001fonts.com/noto-serif-font.html)，係指文章因為缺字出現如豆腐方塊的情形)，所以 Noto 其實是 No Tofu（沒豆腐）。
 
 Google 要求该字体与其 Roboto 和 Noto Sans 字体家族完美配合，Web 网页端使用较多。
 
