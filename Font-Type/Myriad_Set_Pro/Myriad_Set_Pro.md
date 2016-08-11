@@ -9,6 +9,8 @@ myriad 是 adobe 公司开发的一款西文字体，myriad pro 是其后期的�
 - adobe --> myriad --> myriad pro  
 - apple --> myriad set --> myriad set pro  
 
+[Myriad Pro®](http://www.myfonts.com/fonts/adobe/myriad/)
+
 ![Myriad_Pro&Myriad_Set_Pro](https://pic1.zhimg.com/ceba78f3a245d8651c2ae1cf823c1778_r.jpg)
 
 [苹果御用字体【Myriad Set】英文部分下载](http://bbs.feng.com/read-htm-tid-7655434.html)
