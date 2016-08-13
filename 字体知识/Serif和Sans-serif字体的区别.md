@@ -4,7 +4,9 @@
 
 Serif 的意思是，在字的笔划开始及结束的地方有额外的**装饰**，而且笔划的粗细会因直横的不同而有不同。相反的，Sans Serif 则**没有**这些额外的装饰，笔划粗细大致差不多。如下图： 
 
+
 ![Sans Serif和Serif](http://images.cnitblog.com/kb/1/201311/01112728-71dd2eade8c24ab38769eaa00be7fedf.jpg)
+![Sans Serif和Serif](http://img1.ph.126.net/Hvy3B1ZG83Oq0cRFSJvTVQ==/2522015791345425397.jpg)
 
 可以看出，我们平时所用的 `Georgia`、`Times New Roman` 等就属于 Serif 字体，而 `Arial`、`Tahoma`、`Verdana` 等则属于 Sans Serif 字体。对中文而言，同样存在这两大种类，很明显，`宋体`、`细明体`(繁体中常用)等就属于 Serif，而`黑体`、`幼圆`等则属于Sans Serif。 
 
