@@ -16,6 +16,9 @@
 [网页设计中最常用的字体](http://www.cnblogs.com/fxair/p/3495004.html)  
 [网页设计中最常用的字体有哪些？（中文和英文）](https://www.zhihu.com/question/19680724)  
 
+[设计师最爱的英文字体](https://zhuanlan.zhihu.com/p/22685508)  
+[印刷材料中阅读效果最好的英文字体是哪种？](https://www.zhihu.com/question/19683987)  
+
 - ***fonts recommend***
 
 [网页设计中常用的8款字体](http://www.jianshu.com/p/66f66e9e0d56)  
@@ -34,8 +37,10 @@ font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaH
 1. 微软雅黑体（Microsoft YaHei）  
 2. 苹方-简（San Francisco+PingFang）  
 3. 冬青黑体（Hiragino Sans GB）  
-4. 兰亭黑-简（Lantinghei SC）  
-5. 思源黑体（Noto Sans CJK/Source Han Sans）  
+4. 中易宋体（SimSun）  
+5. 文泉驿微米黑（WenQuanYi Micro Hei）  
+6. 兰亭黑-简（Lantinghei SC）  
+7. 思源黑体（Noto Sans CJK/Source Han Sans）  
 
 ## 英文字体
 ![30种最佳英文字体](30种最佳英文字体.jpg)
@@ -54,8 +59,9 @@ font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaH
 
 - *Gill Sans*(英伦风情，古典风格骨架，BBC LOGO)  
 - Myriad Pro(替换Garamond)  
-- Roboto  
+- Roboto(Helvetica + DIN)  
 - Noto Sans(No Tofu)  
+- Open Sans(Droid Sans 增强版，Adobe/DropBox/coursera/techcrunch)  
 
 **其他**：
 
