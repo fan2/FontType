@@ -36,11 +36,12 @@ font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaH
 ## 中文字体
 1. 微软雅黑体（Microsoft YaHei）  
 2. 苹方-简（San Francisco+PingFang）  
-3. 冬青黑体（Hiragino Sans GB）  
-4. 中易宋体（SimSun）  
-5. 文泉驿微米黑（WenQuanYi Micro Hei）  
-6. 兰亭黑-简（Lantinghei SC）  
-7. 思源黑体（Noto Sans CJK/Source Han Sans）  
+3. 思源黑体（Noto Sans CJK/Source Han Sans）  
+4. 冬青黑体（Hiragino Sans GB）  
+5. 兰亭黑-简（Lantinghei SC）  
+6. 华文黑体（STHeiti）  
+7. 中易黑体/中易宋体（MS SimHei/MS SimSun）  
+8. 文泉驿微米黑（WenQuanYi Micro Hei for Linux/UNIX）  
 
 ## 英文字体
 ![30种最佳英文字体](30种最佳英文字体.jpg)
@@ -57,11 +58,11 @@ font-family: "PingFang SC", "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaH
 
 **青睐**：
 
-- *Gill Sans*(英伦风情，古典风格骨架，BBC LOGO)  
+- Open Sans(Droid Sans 增强版，Adobe/DropBox/coursera/techcrunch)  
 - Myriad Pro(替换Garamond)  
 - Roboto(Helvetica + DIN)  
 - Noto Sans(No Tofu)  
-- Open Sans(Droid Sans 增强版，Adobe/DropBox/coursera/techcrunch)  
+- *Gill Sans*(英伦风情，古典风格骨架，BBC LOGO)  
 
 **其他**：
 
