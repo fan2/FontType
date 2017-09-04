@@ -38,6 +38,9 @@ Google 要求该字体与其 Roboto 和 Noto Sans 字体家族完美配合，Web
 
 Adobe Source Han Sans 发布版字符比较完备，建议用作桌面显示。
 
+##### [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+是不是对应的 Mono 版本，类似 Noto Sans Mono CJK？
+
 #### [使用思源黑体](http://www.iinterest.net/2015/01/29/%E4%BD%BF%E7%94%A8%E6%80%9D%E6%BA%90%E9%BB%91%E4%BD%93/)
 [使用 Noto Sans CJK 作为网页字体](https://leonax.net/p/7750/use-noto-sans-cjk-as-default-blog-font/)  
 [思源/Noto pan-CJK 字體 & Ubuntu](http://blog.anthonywong.net/2014/07/28/%E6%80%9D%E6%BA%90noto-pan-cjk-%E5%AD%97%E9%AB%94-ubuntu/)  
